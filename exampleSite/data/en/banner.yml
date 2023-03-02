@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: images/client/client-2.webp
   bg_image: images/client/client-2.webp
   icon: ''
