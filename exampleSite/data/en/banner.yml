@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image_webp: images/302005783_5458173640967807_3475428016740490032_n.jpg
   bg_image: images/302005783_5458173640967807_3475428016740490032_n.jpg
   icon: ''
