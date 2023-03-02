@@ -1,13 +1,11 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image_webp: images/302005783_5458173640967807_3475428016740490032_n.jpg
   bg_image: images/302005783_5458173640967807_3475428016740490032_n.jpg
   icon: ''
   title: BLOG CỦA TÍT
-  content: |-
-    YÊU LẤY NHỮNG ĐIỀU KHÁC BIỆT. THƯƠNG LẤY NHỮNG ĐIỀU KHÁC BIỆT
-    Eg: Web5Ngay
+  content: YÊU LẤY NHỮNG ĐIỀU KHÁC BIỆT. THƯƠNG LẤY NHỮNG ĐIỀU KHÁC BIỆT
   button:
     enable: true
     label: Explore Us
