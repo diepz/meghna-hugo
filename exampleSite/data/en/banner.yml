@@ -7,6 +7,6 @@ banner:
   title: BLOG CỦA TÍT
   content: YÊU LẤY NHỮNG ĐIỀU KHÁC BIỆT. THƯƠNG LẤY NHỮNG ĐIỀU KHÁC BIỆT
   button:
-    enable: true
-    label: Explore Us
+    enable: false
+    label: ABOUT ME
     link: "#services"
