@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: images/client/client-2.webp
   bg_image: images/client/client-2.webp
   icon: ''
   title: Experience the new reality
