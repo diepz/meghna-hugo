@@ -24,4 +24,5 @@ description: PHP CƠ BẢN
 
        Đáp: 
        Điểm chung dùng để lấy và truyền dữ liệu trên server.
-       Điểm khác biêt: POST dữ liệu thì được truyền thông qua HTTP HEADER
+       Điểm khác biệt: POST dữ liệu thì được truyền thông qua HTTP HEADER nên bảo mật hơn.
+       
