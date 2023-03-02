@@ -5,8 +5,9 @@ banner:
   bg_image: images/302005783_5458173640967807_3475428016740490032_n.jpg
   icon: ''
   title: BLOG CỦA TÍT
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: |-
+    YÊU LẤY NHỮNG ĐIỀU KHÁC BIỆT. THƯƠNG LẤY NHỮNG ĐIỀU KHÁC BIỆT
+    Eg: Web5Ngay
   button:
     enable: true
     label: Explore Us
