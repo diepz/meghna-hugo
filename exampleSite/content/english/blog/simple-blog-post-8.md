@@ -14,7 +14,7 @@ description: PHP CƠ BẢN
 1. **PHP có mấy cách khai báo? Những cách nào được xem là chính thống và không ảnh hưởng khi các phiên bản update sau này?**
 
        Đáp:
-       PHP có 4 cách khai báo, tuy nhiên có cách chính thống: <?php ?>
+       - PHP có 4 cách khai báo, tuy nhiên có cách chính thống: <?php ?>
 2. **Hằng trong PHP khác gì so với biến? Nếu 1 hằng được định nghĩa 2 lần, thì liệu có bị lỗi không?**
 
        Đáp:
@@ -23,8 +23,8 @@ description: PHP CƠ BẢN
 3. **Phân biệt $_POST và $_GET trong php?**
 
        Đáp: 
-       Điểm chung đều được dùng để gửi dữ liệu lên server.
-       Điểm khác biệt: POST thì dữ liệu được truyền thông qua HTTP HEADER nên có tính bảo mật hơn.
+       - Điểm chung đều được dùng để gửi dữ liệu lên server.
+       - Điểm khác biệt: POST thì dữ liệu được truyền thông qua HTTP HEADER nên có tính bảo mật hơn.
        Dữ liệu gửi lên thì không bị giới hạn. Chậm hơn GET
-       Get dữ liệu gửi lên được truyền trên URL, thông tin được hiển thị trên URL lên tính bảo mật kém hơn.
-       Bị giới hạn 1024 ký tự. Nhanh hơn POST do được cache trên web
+       - Get dữ liệu gửi lên được truyền trên URL, thông tin được hiển thị trên URL lên tính bảo mật
+       kém hơn. Bị giới hạn 1024 ký tự. Nhanh hơn POST do được cache trên web
