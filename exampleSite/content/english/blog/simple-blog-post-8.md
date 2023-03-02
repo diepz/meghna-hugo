@@ -20,4 +20,4 @@ description: PHP CƠ BẢN
 3. **Phân biệt $_POST và $_GET trong php?**
 
    \`Đáp: Điểm chung dùng để lấy và truyền dữ liệu trên server.   
-   Điểm khác biêt: POST \`
+   Điểm khác biêt: POST dữ liệu thì được truyền thông qua HTTP HEADER\`
