@@ -1,4 +1,6 @@
 ---
+- id: blogTitle
+  translation: Knowledge
 - id: about
   translation: About Us
 - id: blog
