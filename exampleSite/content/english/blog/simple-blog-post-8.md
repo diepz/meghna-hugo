@@ -21,9 +21,9 @@ description: PHP CƠ BẢN
    2\.2 Không bị lỗi, tuy nhiên hằng chỉ nhận giá trị đầu tiên.
 3. **Phân biệt $_POST và $_GET trong php?**
 
-   Đáp:    
-   \- Điểm chung đều được dùng để gửi dữ liệu lên server.   
-   \- Điểm khác biệt: POST thì dữ liệu được truyền thông qua HTTP HEADER nên có tính bảo mật hơn. Dữ liệu gửi lên thì không bị giới hạn. Chậm hơn GET   
+   Đáp:  
+   \- Điểm chung đều được dùng để gửi dữ liệu lên server.  
+   \- Điểm khác biệt: POST thì dữ liệu được truyền thông qua HTTP HEADER nên có tính bảo mật hơn. Dữ liệu gửi lên thì không bị giới hạn. Chậm hơn GET  
    \- Get dữ liệu gửi lên được truyền trên URL, thông tin được hiển thị  trên URL lên tính bảo mật kém hơn. Bị giới hạn 1024 ký tự. Nhanh hơn POST do được cache trên web.
 4. **Mảng là gì? Có mấy loại mảng trong PHP?**  
    Đáp:  
@@ -44,4 +44,4 @@ description: PHP CƠ BẢN
 8. **Cho biết sự khác nhau giữa serialize và json_encode? Lý giải theo cách bạn hiểu?**  
    \- Đều là chuyển đổi một mảng hoặc object thành string.  
    \- serialize chuyển đổi thành một chuỗi theo chuẩn PHP và unserialize để chuyển ngược lại thành mảng hoặc object.  
-   \- json encode thì chuyển thành dữ liệu JSON để sử dụng trong lưu trữ database và để chuyển đổi sử dụng json decode để chuyển ngược lại thành mảng/
+   \- json encode thì chuyển thành dữ liệu JSON để sử dụng trong lưu trữ database và để chuyển đổi sử dụng json decode để chuyển ngược lại thành mảng.
