@@ -24,7 +24,10 @@ description: PHP CƠ BẢN
 
        Đáp: 
        - Điểm chung đều được dùng để gửi dữ liệu lên server.
-       - Điểm khác biệt: POST thì dữ liệu được truyền thông qua HTTP HEADER nên có tính bảo mật hơn.
+       - Điểm khác biệt: POST thì dữ liệu được truyền thông qua HTTP HEADER
+       nên có tính bảo mật hơn.
        Dữ liệu gửi lên thì không bị giới hạn. Chậm hơn GET
-       - Get dữ liệu gửi lên được truyền trên URL, thông tin được hiển thị trên URL lên tính bảo mật
-       kém hơn. Bị giới hạn 1024 ký tự. Nhanh hơn POST do được cache trên web
+       - Get dữ liệu gửi lên được truyền trên URL, thông tin được hiển thị 
+       trên URL lên tính bảo mật
+       kém hơn. Bị giới hạn 1024 ký tự. Nhanh hơn POST do được cache trên 
+       web
